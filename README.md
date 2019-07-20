@@ -15,7 +15,7 @@ Calcular a caderneta de campo usando "2 pontos" que procura as estações e os p
 ![transcoor 03](https://user-images.githubusercontent.com/995209/61579165-0ed4dd80-aad8-11e9-8a03-43819a2b9d40.png)
 
 Exemplo da visualização grosseira, apenas para ter uma ideai do desenho final:
-![transcoor 05](https://user-images.githubusercontent.com/995209/61579163-0ed4dd80-aad8-11e9-9570-f8c913f3c126.png)
+![transcoor 04](https://user-images.githubusercontent.com/995209/61579164-0ed4dd80-aad8-11e9-89b7-47e1ff1e14a3.png)
 
 Arquivo dxf gerado, aberto no Draftsight:
-![transcoor 04](https://user-images.githubusercontent.com/995209/61579164-0ed4dd80-aad8-11e9-89b7-47e1ff1e14a3.png)
+![transcoor 05](https://user-images.githubusercontent.com/995209/61579163-0ed4dd80-aad8-11e9-9570-f8c913f3c126.png)
