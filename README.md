@@ -3,6 +3,8 @@ Transcoor é um programa desenvolvido em python 3 para cálculo de caderneta de 
 
 Utilizo a estação total Topcon 236w.
 
+Precisa do ezdxf, matplotlib, serial, gdal.
+
 Funcionamento:
 
 Abrir o programa:
